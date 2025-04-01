@@ -2,3 +2,8 @@ database/tcga_acc
 .DS_Store
 .DS_Store
 **/.DS_Store
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
